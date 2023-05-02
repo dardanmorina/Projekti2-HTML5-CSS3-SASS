@@ -1,4 +1,4 @@
-# Projekti i pare 
+# Projekti i dyte
 Ky eshte projekti i punuar me teknologjite HTML5,CSS3,SCSS
 nga Bootcampi-PER PROGRAMERA.
 Responsive only for mobile with Media Query
